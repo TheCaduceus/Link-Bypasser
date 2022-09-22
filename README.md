@@ -1,6 +1,6 @@
 # Link Bypasser/DL Generator
 
-<b>Can Bypass Adfly, GPLinks, DropLink, LinkVertise and RockLinks Links 🔥</b><br>
+<b>Can Bypass Adfly, GPLinks, DropLink, LinkVertise, Gyanilinks(gtlinks.me), Shortingly and RockLinks Links 🔥</b><br>
 
 <b>Can Generate DDL Link for MDisk, PixelDrain, WeTransfer and MegaUP Links 🔥</b><br>
 
