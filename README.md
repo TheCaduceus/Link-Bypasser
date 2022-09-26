@@ -4,7 +4,7 @@
 
 <b>Can Generate DDL Link for MDisk, PixelDrain, WeTransfer, Anonfiles, GoFile, DropBox, ZippyShare, MediaFire and MegaUP Links 🔥</b><br>
 
-<b>Can Generate GDrive Link for GDTot, Sharer.pw and AppDrive -LookAlike Links 🔥</b><br><br>
+<b>Can Generate GDrive Link for GDTot, Sharer.pw, DriveFire, HubDrive, KatDrive, Kolop and AppDrive -LookAlike Links 🔥</b><br><br>
 
 <b><i>AppDrive - LookAlike Supported Sites :</i></b>
  - appdrive.in
