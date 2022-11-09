@@ -1,5 +1,7 @@
 # Link Bypasser/DL Generator
 
+## [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheCaduceus/Link-Bypasser/blob/main/Link_Pass.ipynb)
+
 <b>Can Bypass Adfly, GPLinks, DropLink, LinkVertise, Gyanilinks(gtlinks.me), Shortingly, ShareUs, OUO, PSA, FileCrypt, OlaMovies, Script-link and RockLinks Links 🔥</b><br>
 
 <b>Can Generate DDL Link for MDisk, PixelDrain, WeTransfer, Anonfiles, GoFile, DropBox, ZippyShare, MediaFire, MegaUP and Much More see Below 🔥</b><br>
